@@ -1,0 +1,5 @@
+D:\training\CsharpTutorial\CsharpTutorial\bin\Debug\CsharpTutorial.exe.config
+D:\training\CsharpTutorial\CsharpTutorial\bin\Debug\CsharpTutorial.exe
+D:\training\CsharpTutorial\CsharpTutorial\bin\Debug\CsharpTutorial.pdb
+D:\training\CsharpTutorial\CsharpTutorial\obj\Debug\CsharpTutorial.exe
+D:\training\CsharpTutorial\CsharpTutorial\obj\Debug\CsharpTutorial.pdb
